@@ -1,7 +1,0 @@
-﻿git branch "branch" -- Crear rama (branch)
-git checkout "branch" -- Utilizar rama (branch)
-git status -- Ver los cambios
-git add -A -- Preparar todo para subirlo
-git commit -m "explain" -- Establecer motivo para subirlo
-git push -- Subir después de preparalo y crear un motivo
-git pull -- Bajar cambios
