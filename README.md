@@ -3,4 +3,5 @@ Crash Course Python book work
 
 This is all the work I do while reading "Python Crash Course".
 
-Edit 1
+I'll organize all the scripts by chapters.
+Testing different editors like Atom or Geany.
